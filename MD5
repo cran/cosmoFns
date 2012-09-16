@@ -1,11 +1,11 @@
-45fe1bd82d55e82f2e9de13223e40b0f *DESCRIPTION
+d00989b00c93f3b22a67a8a26361a9cf *DESCRIPTION
 4152fdbe82390c929e14d1c842cec2fc *NAMESPACE
 241edbb575d919296a98c635c84a254e *R/D.A.R
 625c80445ea8428b0b36ca0fbc7135b0 *R/D.L.R
 f9754bfb71e21816a60bb1e81c9ba0f4 *R/D.M.R
 05ba69b6bb3612eef9c0da29143527d3 *R/Lprime.R
 ff98cbd9aa0669bb9bee77ffa556a2fe *R/dComovVol.R
-8a94dc2699b321f7301b7a120e0b2450 *R/dimmingFactor.R
+5e615842be6b68e08f7e047ad989841a *R/dimmingFactor.R
 fb607ea9b4ef5af437b70a1ba4552894 *R/lineLum.R
 1bfa8aabe3ea61306626d6547b2e5c27 *R/lookbackTime.R
 4d3edb3f7638d6cf7f3afd37c09cd63e *R/mass.CO.R
@@ -13,7 +13,7 @@ fb607ea9b4ef5af437b70a1ba4552894 *R/lineLum.R
 965cbd833330a60fbe3ceb20ffe22772 *man/D.L.Rd
 ad1219a31888a106b3b7a99b41b22a4a *man/D.M.Rd
 3d924800677fb6a2ed56669a572699e3 *man/Lprime.Rd
-d065d083b7c18a0b7d67173f851d1f55 *man/cosmoFns-package.Rd
+210868a4fd73cadb21a1d0cbb884c040 *man/cosmoFns-package.Rd
 c50c1dece7f3446c02a7eba6cc804a57 *man/dComovVol.Rd
 ba1a3bfa700e0498299b531f71b43d1c *man/dimmingFactor.Rd
 91a5bc13d8dc671195dccd474dacfd32 *man/lineLum.Rd
