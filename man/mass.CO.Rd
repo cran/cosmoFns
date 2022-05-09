@@ -9,7 +9,8 @@ Molecular mass
   empirical conversion factor.
 }
 \usage{
-mass.CO(intInt, z, alpha = 0.8, f.rest = 115.27, omega.m = 0.27, omega.lambda = 0.73, H.0 = 71)
+mass.CO(intInt, z, alpha = 0.8, f.rest = 115.27, omega.m = 0.27,
+omega.lambda = 0.73, H.0 = 71)
 }
 
 \arguments{

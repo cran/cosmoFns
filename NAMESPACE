@@ -1,1 +1,3 @@
-export(D.A, D.L, D.M, dComovVol, dimmingFactor, lineLum, lookbackTime, Lprime, mass.CO)
+importFrom("stats", "integrate", "coef", "nls", "nls.control", "rnorm", "sd")
+export(D.A, D.L, D.M, dComovVol, dimmingFactor, lineLum, lookbackTime,
+       Lprime, mass.CO, sedFitThin)

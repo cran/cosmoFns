@@ -13,8 +13,8 @@ in a flat cosmology.
 \tabular{ll}{
 Package: \tab cosmoFns\cr
 Type: \tab Package\cr
-Version: \tab 1.0-1\cr
-Date: \tab 2012-09-16\cr
+Version: \tab 1.1-1\cr
+Date: \tab 2022-05-08\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 }
@@ -30,6 +30,10 @@ arXiv:astro-ph/9905116;
 "Warm Molecular Gas in the Pirmeval Galaxy 10214+4724", P.M. Solomon,
 D. Downes, and S.J.E. Radford (1992), Ap.J. 398, L29;
 "First-year WMAP observations...", Spergel et al., ApJS 148:175 (2003).
+"Submillimetre and far-infrared spectral energy distributions of
+galaxies...",  A.W. Blain, V.E. Barnard \& S.C. Chapman 2003,
+MNRAS 338, 733.
+
 }
 \examples{
 D.L(z=2.3)
